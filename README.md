@@ -1,4 +1,4 @@
-<h1 align="center">Social Media Database Project</h1>
+<h1 align="center">Social Media Database</h1>
 
 <ul>
 <li>Through this project  we are creating a basic structure of a social media database that could easily be connected to a frontend interface.  </li>
