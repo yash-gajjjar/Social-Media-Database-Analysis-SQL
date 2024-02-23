@@ -9,3 +9,4 @@
 </ul>
 
 https://github.com/yash-gajjjar/Social-Media-Database-Analysis-SQL/blob/main/ER%20Diagram.png
+![alt text](https://github.com/yash-gajjjar/Social-Media-Database-Analysis-SQL/blob/main/ER%20Diagram.png)
