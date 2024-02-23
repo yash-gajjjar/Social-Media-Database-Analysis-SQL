@@ -8,3 +8,4 @@
 <li>With our true efforts and research  we have tried to give a simple and more exact view of a basic social interconnecting site.</li>
 </ul>
 
+https://github.com/yash-gajjjar/Social-Media-Database-Analysis-SQL/blob/main/ER%20Diagram.png
